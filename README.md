@@ -1,11 +1,12 @@
 # Hi 👋, I'm Hanjala  
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 Aspiring Full- Stack Web Developer | Building Modern Web Applications
 
 ---
 
 ## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+I'm an aspiring full-stack web developer focused on building modern, responsive and user-friendly web applications. I'm currently strengthening my skills in **JavaScript**, **TypeScript**, **React**, **Node.js**, and **MongoDB** through hands-on projects.
+
+I enjoy learning new technologies, solving real-world problems and turning ideas into practical applications. My goal is to grow as a professional developer and contribute to building reliable and meaningful software.
 
 ---
 
@@ -33,10 +34,9 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hanjala13)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/hanjala13x)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mdhanjala0224@gmail.com)
 
 ---
 
@@ -44,9 +44,9 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjala13&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjala13&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hanjala13&style=flat-square)
 
