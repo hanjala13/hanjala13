@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hanjala  
-### 🔭 Aspiring Full- Stack Web Developer | Building Modern Web Applications
+### 🔭 Aspiring Full-Stack Web Developer | Building Modern Web Applications
 
 ---
 
@@ -40,13 +40,17 @@ I enjoy learning new technologies, solving real-world problems and turning ideas
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjala13&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjala13&layout=compact&theme=default) |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hanjala13&show_icons=true&theme=default&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjala13&layout=compact&theme=default&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=hanjala13&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hanjala13&style=flat-square)
 
