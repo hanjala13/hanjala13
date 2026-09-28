@@ -42,15 +42,13 @@ I enjoy learning new technologies, solving real-world problems and turning ideas
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanjala13&show_icons=true&theme=default&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjala13&layout=compact&theme=default&hide_border=true" height="180"/>
-
-</div>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjala13&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjala13&layout=compact&theme=default) |
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hanjala13&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hanjala13&style=flat-square)
 
